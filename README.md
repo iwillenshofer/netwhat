@@ -1,6 +1,6 @@
 <p align="center">
-	<img width="130px;" src="https://game.42sp.org.br/static/assets/images/42_logo_black.svg" align="center" alt="42" />&nbsp;&nbsp;&nbsp;
-	<img width="130px" src="https://game.42sp.org.br/static/assets/achievements/netwhatm.png" align="center" alt="netwhat" />
+	<img width="130px;" src="https://raw.githubusercontent.com/iwillenshofer/resources/main/images/42_logo_black.svg" align="center" alt="42" />&nbsp;&nbsp;&nbsp;
+	<img width="130px" src="https://raw.githubusercontent.com/iwillenshofer/resources/main/achievements/netwhat.png" align="center" alt="netwhat" />
 	<h1 align="center">netwhat</h1>
 </p>
 <p align="center">
@@ -21,13 +21,13 @@
 </p>
 <br>
 
-> _Netwhat will allow you to discover the network and to understand how it works. This will allow you to understand how some things you already 
+> _Netwhat will allow you to discover the network and to understand how it works. This will allow you to understand how some things you already
 use in your everyday life, without even knowing it.
 For that you will answer a questionnaire on the website netwhat.42.fr.
 If you unregister this project, you will need to wait three days before you can retry the subject.
 _
 
-[Download the Subject ⤓](en.subject.pdf)
+
 
 <br>
 
